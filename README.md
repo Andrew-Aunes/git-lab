@@ -1,3 +1,1 @@
-git add README.md 
-git commit -m "Enter a message here" 
-git push
+CS 2400 107
